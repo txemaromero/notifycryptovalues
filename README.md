@@ -174,7 +174,9 @@ void test3() {
 
 ## Demo
 
-![Demo video](demo/demo.gif)
+![Demo video](demo/youtubedemo.png)
+
+Available at: https://youtu.be/YFOZz-PgefQ
 
 ## Deliverable
 
