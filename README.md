@@ -8,7 +8,7 @@ Bitcoin [Nakamoto 08] was the first application of Blockchain technology. Bitcoi
 
 On the other hand, access to the digital wallet (crypto wallet) has been susceptible to cyberattacks. Computer attacks such as Man-in-the-Middle (MitM) have been reported in the literature. And both software and hardware wallets have been affected.
 
-During the development life cycle (SDLC), the following tasks are included: Software QA and testing (Selenium and JUnit), video evidence of test cases (Monte Media Library) and building release automation (Linux Bash). The user interface of the application is CLI. The resulting source code will be released under the GPL license. For the future we propose another building release automation (Docker), vulnerability scanning (Dive and Trivy), monitoring (Scope) and continuous integration (Jenkins).
+During the development life cycle (SDLC), the following tasks are included: Software QA and testing (Selenium and JUnit), video evidence of test cases (Monte Media Library) and building release automation (Linux Bash). The user interface of the application is CLI. The resulting source code is released under the GPL license. For the future we propose another building release automation (Docker), vulnerability scanning (Dive and Trivy), monitoring (Scope) and continuous integration (Jenkins).
 
 ## Input
 
