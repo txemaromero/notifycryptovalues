@@ -186,6 +186,8 @@ that includes:
 2. config folder.
 3. A demo video.
 
+Download the files as a zip using the green button, or clone the repository to your machine using Git.
+
 ## References
 
 [Nakamoto 08] S. Nakamoto. "Bitcoin: A Peer-to-Peer Electronic Cash System". 31 October 2008. Available at: https://bitcoin.org/bitcoin.pdf
