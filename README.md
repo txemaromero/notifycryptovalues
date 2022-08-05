@@ -185,6 +185,7 @@ that includes:
 1. Java EE Eclipse project with the source code. You should use Maven build because the project is clean.
 2. config folder.
 3. A demo video.
+4. An explanation [file](tutorial/explanation.pdf) (to get the Telegram API token, etc.).
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
