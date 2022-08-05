@@ -12,7 +12,7 @@ During the development life cycle (SDLC), the following tasks are included: Soft
 
 ## Input
 
-cryptocurrencies.properties, tokens.properties and change.properties config files.
+[cryptocurrencies.properties](config/cryptocurrencies.properties), [tokens.properties](config/tokens.properties) and [change.properties](config/change.properties) config files.
 
 For example,
 
@@ -110,7 +110,7 @@ CURRENT TIME: 11:43:56
 
 For each module, Unit.java contains the unit test.
 
-TestCase1.java contains the integration test (see image). 
+[TestCase1.java](src/test/java/execution/TestCase1.java) contains the integration test (see image). 
 
 ![Integration test](images/integrationtest.png)
 
@@ -124,7 +124,7 @@ apiToken
 
 In:
 
-notifycryptovalues\src\main\java\execution\Main.java
+[notifycryptovalues\src\main\java\execution\Main.java](src/main/java/execution/Main.java)
 
 ```
 public class Main {
@@ -137,7 +137,7 @@ public class Main {
 
 In:
 
-notifycryptovalues\src\main\java\sendmessage\Unit.java
+[notifycryptovalues\src\main\java\sendmessage\Unit.java](src/main/java/sendmessage/Unit.java)
 
 ```
 public class Unit {
@@ -150,7 +150,7 @@ public class Unit {
 
 In:
 
-notifycryptovalues\src\main\java\sendmessage\TelegramEncode.java
+[notifycryptovalues\src\main\java\sendmessage\TelegramEncode.java](src/main/java/sendmessage/TelegramEncode.java)
 
 ```
 String apiToken = "to complete";
@@ -158,7 +158,7 @@ String apiToken = "to complete";
 
 In:
 
-notifycryptovalues\src\test\java\execution\TestCase1.java
+[notifycryptovalues\src\test\java\execution\TestCase1.java](src/test/java/execution/TestCase1.java)
 
 ```
 @DisplayName("Testing sendmessage::WhatsApp")
